@@ -1,0 +1,11 @@
+.purple{
+    background: moccasin;
+}
+body {
+    background: pink;
+}
+
+.body-color {
+    background: hsl(90,100,100) ;
+}
+
